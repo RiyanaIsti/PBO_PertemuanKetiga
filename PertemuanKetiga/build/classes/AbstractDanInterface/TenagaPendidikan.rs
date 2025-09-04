@@ -1,0 +1,1 @@
+AbstractDanInterface.TenagaPendidik
